@@ -8,3 +8,6 @@
 texture = ExtResource( 1 )
 
 [node name="Timer" type="Timer" parent="."]
+
+[node name="SkeletonIK" type="SkeletonIK" parent="Sprite"]
+process_priority = 1
