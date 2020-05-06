@@ -1,4 +1,4 @@
 Això és una línia de text
-Això és la segona línia
+Això és la 2na línia
 Això és la tercera línia
 
