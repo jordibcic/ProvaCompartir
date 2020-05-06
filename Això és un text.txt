@@ -1,6 +1,6 @@
 Aquí hi aniria un títol
 
 Això és una línia de text
-Això és la segona línia i la faig més llarga.
+Això és la 2na línia i la faig més llarga.
 Això és la tercera línia
 
